@@ -495,7 +495,7 @@ OpenResty通过Lua脚本扩展nginx功能，可提供负载均衡、请求路由
 
 ## HashMap：put
 
-![img](https://s0.lgstatic.com/i/image3/M01/73/D9/CgpOIF5rDYmATP43AAB3coc0R64799.png)
+[img](https://s0.lgstatic.com/i/image3/M01/73/D9/CgpOIF5rDYmATP43AAB3coc0R64799.png)
 
 ## HashMap：resize
 
